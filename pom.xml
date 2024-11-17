@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>API-ContatoS</artifactId>
+	<artifactId>API-De-Contatos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>API-ContatoS</name>
 	<description>Desenvolvendo uma API REST para um CRUD simples (Create, Read, Update e Delete - em português Criar, Ler, Atualizar e Remover) utilizando Spring Boot 2, Hibernate, JPA e MySQL.</description>
